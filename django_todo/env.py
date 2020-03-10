@@ -1,1 +1,0 @@
-os.environ.setdefault("DEVELOPMENT ", 1)
